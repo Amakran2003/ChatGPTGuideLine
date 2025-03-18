@@ -2,7 +2,7 @@
 
 A comprehensive, modern guide to mastering ChatGPT with interactive tutorials and best practices. Built with Next.js, Tailwind CSS, and Framer Motion.
 
-[ChatGPT Guide]([https://thunderous-cocada-bc6f8e.netlify.app/preview.png](https://thunderous-cocada-bc6f8e.netlify.app))
+[ChatGPT Guide](https://thunderous-cocada-bc6f8e.netlify.app)
 
 ## Features
 
