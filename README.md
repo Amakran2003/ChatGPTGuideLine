@@ -1,8 +1,21 @@
 # ChatGPT Guide
 
-A comprehensive, modern guide to mastering ChatGPT with interactive tutorials and best practices. Built with Next.js, Tailwind CSS, and Framer Motion.
+A comprehensive technical writing assignment on mastering ChatGPT with interactive tutorials and best practices. Built with Next.js, Tailwind CSS, and Framer Motion.
 
 [ChatGPT Guide](https://thunderous-cocada-bc6f8e.netlify.app)
+
+## About
+
+This project is an extended web version of the original [GitBook documentation](https://amakran.gitbook.io/amakran), created as part of a Technical Writing course assignment at ALGOSUP. It serves as both an educational resource for understanding ChatGPT and a practical exercise in modern web development frameworks.
+
+## Educational Context
+
+This website was developed as part of the Technical Writing English Class under the guidance of:
+
+**Professor:**  
+Mary Suzanne GLESPEN
+
+The project combines technical writing principles with web development skills, demonstrating the practical application of both disciplines in a real-world context.
 
 ## Features
 
@@ -31,11 +44,28 @@ A comprehensive, modern guide to mastering ChatGPT with interactive tutorials an
 - [Lucide Icons](https://lucide.dev/) - Icons
 - [next-themes](https://github.com/pacocoursey/next-themes) - Theme management
 
+## Project Structure
+
+```
+chatgpt-guide/
+├── app/                   # Next.js app directory
+│   ├── best-practices/    # Best practices page
+│   ├── getting-started/   # Getting started guide
+│   ├── models/           # AI models comparison
+│   └── pro-tips/         # Pro tips and techniques
+├── components/           # React components
+│   ├── ui/              # UI components
+│   ├── navbar.tsx       # Navigation bar
+│   └── theme-provider.tsx # Theme provider
+├── lib/                 # Utility functions
+└── public/             # Static assets
+```
+
 ## Getting Started
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/chatgpt-guide.git
+git clone [https://github.com/yourusername/chatgpt-guide.git](https://github.com/Amakran2003/ChatGPTGuideLine)
 ```
 
 2. Install dependencies:
@@ -85,9 +115,17 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Credits
+
+- **Original Documentation**: [GitBook - ChatGPT Guide](https://amakran.gitbook.io/amakran)
+- **Technical Writing Course**: Mary Suzanne GLESPEN
+- **Web Development**: Abderrazaq MAKRAN
+
 ## Acknowledgments
 
 - Built with [Next.js](https://nextjs.org/)
 - UI components from [shadcn/ui](https://ui.shadcn.com/)
 - Icons from [Lucide](https://lucide.dev/)
 - Deployed on [Netlify](https://www.netlify.com/)
+
+
