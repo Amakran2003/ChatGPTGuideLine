@@ -90,23 +90,6 @@ npm run build
 
 The project is configured for static exports and can be deployed to any static hosting service. Currently deployed on Netlify.
 
-## Project Structure
-
-```
-chatgpt-guide/
-├── app/                   # Next.js app directory
-│   ├── best-practices/    # Best practices page
-│   ├── getting-started/   # Getting started guide
-│   ├── models/           # AI models comparison
-│   └── pro-tips/         # Pro tips and techniques
-├── components/           # React components
-│   ├── ui/              # UI components
-│   ├── navbar.tsx       # Navigation bar
-│   └── theme-provider.tsx # Theme provider
-├── lib/                 # Utility functions
-└── public/             # Static assets
-```
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
